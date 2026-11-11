@@ -1,0 +1,8 @@
+{
+  "name": "J.A. Sovereign God Seven",
+  "description": "Official website for J.A. Sovereign God Limited in Tema, Ghana. Specialising in heavy construction machinery rental, equipment sales, servicing, repairs, maintenance, civil construction, and heavy equipment operator training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
